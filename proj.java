@@ -1,36 +1,3 @@
-PASTEBINnew pastetrends API tools faq 
-search...
- 
-
-Guest User
--
-      
-Public Pastes
-Untitled
-3 sec ago
-Untitled
-4 sec ago
-Untitled
-4 sec ago
-Pereadin-Holy Shoc...
-8 sec ago
-Untitled
-PHP | 8 sec ago
-Untitled
-10 sec ago
-Untitled
-13 sec ago
-Untitled
-Python | 14 sec ago
-
-SHARE
-TWEET
-
-Employee
- A GUEST   JUN 27TH, 2017   14   NEVER
-
-Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
-rawdownloadcloneembedreportprint Java 8.86 KB
 /**
  * File name: TestEmployeeClass.java
  * @author Rebecca Johnson
